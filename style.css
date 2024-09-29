@@ -112,6 +112,7 @@ body {
   color: var(--clr-grayish-blue);
   background-color: var(--clr-cream);
   line-height: 1.7;
+  height: 100vh;
 
   display: grid;
   place-content: center;
